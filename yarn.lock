@@ -607,12 +607,12 @@
   resolved "https://registry.npmjs.org/@nuxt/devalue/-/devalue-2.0.0.tgz"
   integrity sha512-YBI/6o2EBz02tdEJRBK8xkt3zvOFOWlLBf7WKYGBsSYSRtjjgrqPe2skp6VLLmKx5WbHHDNcW+6oACaurxGzeA==
 
-"@nuxt/kit@3.3.1":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.3.1.tgz#93e02a41d9adc7369d704deb88ae143c29554a4e"
-  integrity sha512-zb7/2FUIB1g7nl6K6qozUzfG5uu4yrs9TQjZvpASnPBZ/x1EuJX5k3AA71hMMIVBEX9Adxvh9AuhDEHE5W26Zg==
+"@nuxt/kit@3.3.0":
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.3.0.tgz#f26503e0ab66f5962635f90dbad1098581435422"
+  integrity sha512-ASwBBJ0Ve4QQzmsAntx1/ToshLGoiphbCSgUId0ywcD+spHJj+rALy8P9mmkPCb8/E1Bc6ez3+TnOYvOl/NsSQ==
   dependencies:
-    "@nuxt/schema" "3.3.1"
+    "@nuxt/schema" "3.3.0"
     c12 "^1.2.0"
     consola "^2.15.3"
     defu "^6.1.2"
@@ -655,10 +655,10 @@
     unimport "^3.0.4"
     untyped "^1.3.2"
 
-"@nuxt/schema@3.3.1":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.3.1.tgz#305d0db9c535f64fad3aa1a7c985410e733f9ff0"
-  integrity sha512-E8HWzU43rXzqwDTmWduTLHY4xIwRSAUt1LbpuE9IjZ4uJZq5Mbaj4nfhANNsTQGw2c+O+rL81yzAP3i61LEJDw==
+"@nuxt/schema@3.3.0":
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.3.0.tgz#bde95c509ecf57f34936b1699426062305601477"
+  integrity sha512-g4kdf3NbMGjU4B93IUgvf4Jd03/spz3//sb+pwMazgnd+Ag2G/LOIhxi6S/tDTrcYwrhNE37LCnyX2slYXX/0w==
   dependencies:
     c12 "^1.2.0"
     create-require "^1.1.1"
@@ -724,12 +724,12 @@
   resolved "https://registry.npmjs.org/@nuxt/ui-templates/-/ui-templates-1.1.1.tgz"
   integrity sha512-PjVETP7+iZXAs5Q8O4ivl4t6qjWZMZqwiTVogUXHoHGZZcw7GZW3u3tzfYfE1HbzyYJfr236IXqQ02MeR8Fz2w==
 
-"@nuxt/vite-builder@3.3.1":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/vite-builder/-/vite-builder-3.3.1.tgz#f1806acafe7e147c3962c16d916adf462069a3b5"
-  integrity sha512-YDPDqMWRcZfI6ou2nfxj+IEaxfZXRoyoeMV917h7LbhmnqMBn1prJzFF+Li8br97emL958XANZ7GVZ9OVXgayA==
+"@nuxt/vite-builder@3.3.0":
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/vite-builder/-/vite-builder-3.3.0.tgz#053945edbe862a0f3a4a3812b80c25f6cf56818f"
+  integrity sha512-QdncgmcgCCqnYbdmlHr4fa9gX4yb+C9w+VPBSBHtrN1m2+Di69b9HRRDtYKwjbdjI+M2SDJ5Ql6X3Ycy/IHVjw==
   dependencies:
-    "@nuxt/kit" "3.3.1"
+    "@nuxt/kit" "3.3.0"
     "@rollup/plugin-replace" "^5.0.2"
     "@vitejs/plugin-vue" "^4.0.0"
     "@vitejs/plugin-vue-jsx" "^3.0.0"
@@ -1892,7 +1892,7 @@ esbuild@^0.16.14:
 
 esbuild@^0.17.11, esbuild@^0.17.12, esbuild@^0.17.5:
   version "0.17.15"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.17.15.tgz"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.17.15.tgz#209ebc87cb671ffb79574db93494b10ffaf43cbc"
   integrity sha512-LBUV2VsUIc/iD9ME75qhT4aJj0r75abCVS0jakhFzOtR7TQsqQA5w0tZ+KTKnwl3kXE0MhskNdHDh/I5aCR1Zw==
   optionalDependencies:
     "@esbuild/android-arm" "0.17.15"
@@ -3019,24 +3019,24 @@ nth-check@^2.0.1:
   dependencies:
     boolbase "^1.0.0"
 
-nuxi@3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.3.1.tgz#379aa10e73ea0bb1f21d31bbfa9e3cac7477a39f"
-  integrity sha512-GJaJR0NtH05W7xrtFoJ3sX/eUhIMoqWj63QNFekqhrfD8LmXrlWrx9Q8GCFNc3nqk0oIcngJijyGNfWtTtpSxw==
+nuxi@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.3.0.tgz#1094fe707c601c5e0b5aba3f074a14d02c6fa4f0"
+  integrity sha512-Egwgq/J+T6AtByrELxFedlysY1NCmtoX0nHrrsLZFwKwYawY3vn+s6XUii9MuDQI7puQV+UjgGRZ9mj6vmGNgw==
   optionalDependencies:
     fsevents "~2.3.2"
 
-nuxt@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-3.3.1.tgz#a4af3cec38bfb65c03798a7bbd38d43c78fce2ea"
-  integrity sha512-1DTFXEr+FlZO/hyw765cb9a/AiGysHIGLNl8NGJtURwUWC4gd+Z3y5DnL04PE5fVJ08yB/KJwc0t6StijbL8wQ==
+nuxt@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-3.3.0.tgz#72145bca7114028315739eca530775c8ca9b191d"
+  integrity sha512-oBJam5Tmr6Hjcv4Uhct7Fbn/qMh2Y7Zh6Nuj+OHHbxHeli3QcVy3W7njZNHz3xWLH3D4TvEkKO4NfddIHcg96A==
   dependencies:
     "@nuxt/devalue" "^2.0.0"
-    "@nuxt/kit" "3.3.1"
-    "@nuxt/schema" "3.3.1"
+    "@nuxt/kit" "3.3.0"
+    "@nuxt/schema" "3.3.0"
     "@nuxt/telemetry" "^2.1.10"
     "@nuxt/ui-templates" "^1.1.1"
-    "@nuxt/vite-builder" "3.3.1"
+    "@nuxt/vite-builder" "3.3.0"
     "@unhead/ssr" "^1.1.23"
     "@unhead/vue" "^1.1.23"
     "@vue/reactivity" "^3.2.47"
@@ -3057,7 +3057,7 @@ nuxt@^3.3.1:
     magic-string "^0.30.0"
     mlly "^1.2.0"
     nitropack "~2.3.1"
-    nuxi "3.3.1"
+    nuxi "3.3.0"
     ofetch "^1.0.1"
     ohash "^1.0.0"
     pathe "^1.1.0"

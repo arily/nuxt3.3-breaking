@@ -7,7 +7,8 @@
 <script setup lang="ts">
 const config = useAppConfig()
 
-config.deep
+
+config.key
 </script>
 
 <style scoped>
